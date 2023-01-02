@@ -1,1 +1,1 @@
-This repository contains the project and its report where the data is being interpreted and the customer classification is explained in detail. The html file is readable by any web browser of your preference and the .rmd file can be open using RStudio.
+This repository contains the project, developed in R, and its report where the data is being interpreted and the customer classification is explained in detail. The html file is readable by any web browser of your preference and the .rmd file can be open using RStudio.
